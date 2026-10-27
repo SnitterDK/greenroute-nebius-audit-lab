@@ -1,0 +1,10 @@
+{
+  "estimate": {
+    "centre_wh": 18.4,
+    "min_wh": 13.8,
+    "max_wh": 24.2,
+    "centre_co2_g": 4.6,
+    "min_co2_g": 3.5,
+    "max_co2_g": 6.1
+  }
+}
